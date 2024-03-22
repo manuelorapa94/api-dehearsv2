@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\welco\\source\\repos\\ehearsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC71264-E5FE-468E-8F22-79CA56B898E2}|ehearsApi\\ehearsApi.csproj|c:\\users\\welco\\source\\repos\\ehearsapi\\ehearsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC71264-E5FE-468E-8F22-79CA56B898E2}|ehearsApi\\ehearsApi.csproj|solutionrelative:ehearsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC71264-E5FE-468E-8F22-79CA56B898E2}|ehearsApi\\ehearsApi.csproj|c:\\users\\welco\\source\\repos\\ehearsapi\\ehearsapi\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC71264-E5FE-468E-8F22-79CA56B898E2}|ehearsApi\\ehearsApi.csproj|solutionrelative:ehearsapi\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC71264-E5FE-468E-8F22-79CA56B898E2}|ehearsApi\\ehearsApi.csproj|c:\\users\\welco\\source\\repos\\ehearsapi\\ehearsapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC71264-E5FE-468E-8F22-79CA56B898E2}|ehearsApi\\ehearsApi.csproj|solutionrelative:ehearsapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC71264-E5FE-468E-8F22-79CA56B898E2}|ehearsApi\\ehearsApi.csproj|c:\\users\\welco\\source\\repos\\ehearsapi\\ehearsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC71264-E5FE-468E-8F22-79CA56B898E2}|ehearsApi\\ehearsApi.csproj|solutionrelative:ehearsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC71264-E5FE-468E-8F22-79CA56B898E2}|ehearsApi\\ehearsApi.csproj|c:\\users\\welco\\source\\repos\\ehearsapi\\ehearsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DC71264-E5FE-468E-8F22-79CA56B898E2}|ehearsApi\\ehearsApi.csproj|solutionrelative:ehearsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\welco\\source\\repos\\ehearsApi\\ehearsApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ehearsApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\welco\\source\\repos\\ehearsApi\\ehearsApi\\appsettings.json",
+              "RelativeToolTip": "ehearsApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T05:29:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\welco\\source\\repos\\ehearsApi\\ehearsApi\\Helpers\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "ehearsApi\\Helpers\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\welco\\source\\repos\\ehearsApi\\ehearsApi\\Helpers\\PasswordHasher.cs",
+              "RelativeToolTip": "ehearsApi\\Helpers\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:10:05.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\welco\\source\\repos\\ehearsApi\\ehearsApi\\Program.cs",
+              "RelativeDocumentMoniker": "ehearsApi\\Program.cs",
+              "ToolTip": "C:\\Users\\welco\\source\\repos\\ehearsApi\\ehearsApi\\Program.cs",
+              "RelativeToolTip": "ehearsApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:15:40.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\welco\\source\\repos\\ehearsApi\\ehearsApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ehearsApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\welco\\source\\repos\\ehearsApi\\ehearsApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ehearsApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:52:29.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\welco\\source\\repos\\ehearsApi\\ehearsApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ehearsApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\welco\\source\\repos\\ehearsApi\\ehearsApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ehearsApi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:49:10.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
